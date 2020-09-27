@@ -29,7 +29,7 @@ This is based on what worked for me on my Windows machine.
 - networkx
 - seaborn
 - matplotlib
-(installing the last 5 packages is done like this: pip3 install --user pandas)
+(installing the last 5 packages is done something like this: pip3 install --user pandas)
 
 
 Get the code:
@@ -46,3 +46,5 @@ You can go there to view the installation instructions, here are the basic comma
 pip3 install ipyevents
 jupyter nbextension enable --py --sys-prefix ipyevents
 ```
+
+Now it should work! Go to tft_synergy_tool.ipynb and run the cells one at a time, hopefully it should be quite self explanatory.
