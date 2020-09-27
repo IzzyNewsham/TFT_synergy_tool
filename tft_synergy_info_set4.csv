@@ -1,0 +1,142 @@
+Cultist
+$1 $1 $2 $3 $3 $4 $4 $5
+"Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up."
+(3) Tyrant Galio
+(6) Demon Lord Galio
+(9) Supreme Overlord Galio
+Divine
+$1 $2 $3 $3 $4 $5
+"Upon attacking 6 times or dropping below 50% health, Divine champions ascend, taking 25% reduced damage and dealing bonus true damage for the rest of combat."
+(2) 20% bonus true damage
+(4) 40% bonus true damage
+(6) 65% bonus true damage
+(8) 100% bonus true damage
+Dusk
+$1 $2 $4 $4 $5
+Dusk champions increase all allies' Spell Power.
+(2) All allies gain 20% Spell Power
+(4) And Dusk Champions gain an additional 50%
+"(6) 50% Spell Power for all, and an extra 75% for Dusk Champions"
+Elderwood
+$1 $2 $2 $3 $3 $4 $5
+"Every two seconds all Elderwood champions grow, gaining bonus stats. This effect stacks up to five times."
+"(3) 15 Armor and MR, 5 AD and SP"
+"(6) 25 Armor and MR, 10 AD and SP"
+"(9) 40 Armor and MR, 20 AD and SP"
+Enlightened
+$1 $1 $2 $3 $4 $4
+Enlightened champions generate more Mana.
+(2) 40% increase
+(4) 70% increase
+(6) 100% increase
+Exile
+$1 $5
+"If an Exile has no adjacent allies at the start of combat, they gain:"
+(1) A shield equal to 50% of their maximum health
+(2) And 80% Lifesteal
+Fortune
+$1 $2 $3 $3 $4
+"(3) Winning combat against a player will give bonus orbs. The longer you've gone without an orb, the bigger the payout!"
+(6) Wins give an extra bonus orb with rare loot!
+Moonlight
+$1 $1 $2 $2
+"(3) At the start of combat the lowest star-level Moonlight Champion stars up until combat ends. (If tied, the champion with the most items is chosen.)"
+Ninja
+$2 $3 $3 $4
+Ninjas gain bonus Attack Damage and Spell Power. This trait is only active when you have exactly 1 or 4 unique Ninjas.
+(1) Ninja gains +50 AD & +50% SP
+(4) All Ninjas gain +120 AD & +120% SP
+Spirit
+$2 $3 $3 $4
+"The first time a Spirit casts their spell, all allies gain Attack Speed based on the spell's mana cost."
+(2) 35% of mana cost
+(4) 90% of mana cost
+The Boss
+$5
+"(1) When The Boss first drops below 40% Health, he leaves combat to start doing sit-ups. Each sit-up restores 15% of his maximum Health and gives him 40% Attack and Movement Speed. If he reaches full Health he returns to combat Pumped Up: all of his attacks and spells deal true damage. If all of his allies die, he will immediately return to combat."
+Tormented
+$5
+"(1) Tormented can be transformed after participating in 3 combats, enhancing their abilities."
+Warlord
+$1 $1 $2 $2 $3 $3 $5
+"Warlords have bonus Health and Spell Power. Each victorious combat they participate in increases the bonus by 10%, stacking up to 5 times."
+(3) 200 HP & 20 SP
+(6) 450 HP & 40 SP
+(9) 700 HP & 70 SP
+Adept
+$3 $4 $5
+"Adepts calm the flow of battle, reducing the Attack Speed of all enemies by 50% for a few seconds at the start of combat."
+(2) 2 Seconds
+(3) 3 Seconds
+(4) 5 Seconds
+Assassin
+$1 $2 $3 $3 $4
+"Innate: At the start of combat, Assassins leap to the enemy backline. Assassins gain bonus Critical Strike Damage and Chance, and their spells can critically strike."
+(2) +30% Critical Strike Damage & +10% Critical Strike Chance
+(4) +60% Critical Strike Damage & +25% Critical Strike Chance
+(6) +90% Critical Strike Damage & +40% Critical Strike Chance
+Brawler
+$1 $1 $2 $2 $3 $4 $5
+Brawlers gain bonus Health.
+(2) 400 Health
+(4) 800 Health
+(6) 1200 Health
+(8) 1800 Health
+Dazzler
+$1 $3 $4 $5
+Dazzlers' spells reduce the Attack Damage of enemies hit by 50% for a few seconds.
+(2) 5 seconds
+(4) 15 seconds
+Duelist
+$1 $1 $2 $3 $3 $5
+"Innate: Duelists gain bonus Movement Speed. Duelists' attacks grant Attack Speed, up to 8 stacks."
+(2) +12% AS per Stack
+(4) +20% AS per Stack
+(6) +35% AS per Stack
+(8) +60% AS per Stack
+Emperor
+$5
+"(1) The Emperor deploys with two Sand Guards who can be placed anywhere on the battlefield. They do not move or attack, and die when their Emperor does."
+Hunter
+$2 $3 $4 $4
+"Every few seconds, all Hunters will attack the lowest percent Health enemy, dealing bonus damage."
+(2) 175% damage every 3.5 seconds
+(3) 175% damage every 3 seconds
+(4) 175% damage every 2.5 seconds
+(5) 175% damage every 2 seconds
+Keeper
+$1 $2 $3 $4 $5
+"At the start of combat, Keepers grant themselves and all nearby allies a shield for 8 seconds. This shield is 50% stronger on Keepers."
+(2) 175-strength shield
+(4) 250-strength shield
+(6) 325-strength shield
+Mage
+$1 $1 $2 $2 $3 $4 $5
+Mages cast twice and have modified Spell Power.
+(3) 70% of their total Spell Power
+(6) 110% of their total Spell Power
+(9) 180% of their total Spell Power
+Mystic
+$2 $3 $4 $4 $5
+All allies gain Magic Resistance.
+(2) 35 Magic Resistance
+(4) 95 Magic Resistance
+(6) 175 Magic Resistance
+Shade
+$2 $3 $5
+"Innate: When combat starts, Shades teleport to the enemy backline. Every third attack Shades dip into the shadows, stealthing and causing their next basic attack to deal bonus magic damage."
+(2) 100 bonus damage
+(3) 325 bonus damage
+(4) 650 bonus damage
+Sharpshooter
+$1 $1 $2 $3 $4
+Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage.
+(2) 1 ricochet with 65% reduced damage
+(4) 2 ricochets with 50% reduced damage
+(6) 3 ricochets with 35% reduced damage
+Vanguard
+$1 $1 $2 $2 $4 $4
+Vanguard champions gain bonus Armor.
+(2) 100 Armor
+(4) 250 Armor
+(6) 500 Armor
