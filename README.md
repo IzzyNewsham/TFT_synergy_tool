@@ -10,3 +10,6 @@ If you just want to give it a go, see tft_synergy_tool.ipynb.
 
 
 Note the team selector will probably not work in Jupyter lab (due to issues with ipywidgets).
+
+tft_synergies_set4.csv (and tft_synergies.csv at an earlier date for set3) was obtained from copying and pasting text from this website: https://tftactics.gg/db/champions. 
+tft_synergy_info_set4.csv was obtained by copying and pasting text from this website: https://lolchess.gg/synergies (tip: if you don't want the images along with the text to be pasted, copying into Google Sheets worked for me).
