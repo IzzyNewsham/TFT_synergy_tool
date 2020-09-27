@@ -403,22 +403,3 @@ def prep_team_image():
     
     return(im_events, vbox, coordinates)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
