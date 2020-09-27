@@ -13,3 +13,36 @@ Note the team selector will probably not work in Jupyter lab (due to issues with
 
 tft_synergies_set4.csv (and tft_synergies.csv at an earlier date for set3) was obtained from copying and pasting text from this website: https://tftactics.gg/db/champions. 
 tft_synergy_info_set4.csv was obtained by copying and pasting text from this website: https://lolchess.gg/synergies (tip: if you don't want the images along with the text to be pasted, copying into Google Sheets worked for me).
+
+
+
+### Steps to get code working 
+
+This is based on what worked for me on my Windows machine.
+
+
+#### Requirements:
+- Python3
+- Jupyter Notebook
+- pandas
+- numpy
+- networkx
+- seaborn
+- matplotlib
+(installing the last 5 packages is done like this: pip3 install --user pandas)
+
+
+Get the code:
+```
+git clone https://github.com/IzzyNewsham/TFT_synergy_tool.git
+```
+
+Now you should have the code in the folder TFT_synergy_tool/.
+
+I also use the package ipyevents from here: https://github.com/mwcraig/ipyevents.
+You can go there to view the installation instructions, here are the basic commands that worked for me:
+
+```
+pip3 install ipyevents
+jupyter nbextension enable --py --sys-prefix ipyevents
+```
